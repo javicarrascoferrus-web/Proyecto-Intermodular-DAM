@@ -435,7 +435,7 @@ User Interface (UI)
 
 
 
-Conclusió
+Conclusión: 
 El proyecto SmartStudy representa una solución innovadora orientada a mejorar la organización académica de los estudiantes mediante el uso de tecnologías actuales e inteligencia artificial.
 A lo largo del desarrollo se ha demostrado la viabilidad técnica, económica y funcional de la aplicación, así como su utilidad real en el entorno educativo.
 Además, el proyecto no solo cumple con los objetivos técnicos del ciclo formativo, sino que también refleja una visión empresarial y orientada al usuario, aportando valor real y adaptándose a las necesidades actuales del mercado.
