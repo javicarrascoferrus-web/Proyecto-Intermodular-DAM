@@ -438,8 +438,9 @@ User Interface (UI)
 Conclusión: 
 El proyecto SmartStudy representa una solución innovadora orientada a mejorar la organización académica de los estudiantes mediante el uso de tecnologías actuales e inteligencia artificial.
 Además, el proyecto no solo cumple con los objetivos técnicos del ciclo formativo, sino que también refleja una visión empresarial y orientada al usuario, aportando valor real y adaptándose a las necesidades actuales del mercado.
-Además, el proyecto no solo cumple con los objetivos técnicos del ciclo formativo, sino que también refleja una visión empresarial y orientada al usuario, aportando valor real y adaptándose a las necesidades actuales del mercado.
-Además, el proyecto no solo cumple con los objetivos técnicos del ciclo formativo, sino que también refleja una visión empresarial y orientada al usuario, aportando valor real y adaptándose a las necesidades actuales del mercado.
+
+
+Proyecto creado por Javier Carrasco
 
 
 
