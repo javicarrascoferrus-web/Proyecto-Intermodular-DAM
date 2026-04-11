@@ -15,13 +15,13 @@ La propia app y web tendrá un calendario en el que podrás ver las tareas por f
 En las Tareas podrás:
 Crearlas 
 Darles prioridad
- Marcar como hechas
+Marcar como hechas
 
 FUNCIONAMIENTO REAL 
 Usuario entra
 Añade tareas
 Guarda exámenes
-Usa IA para estudiar
+Usa asistente de estudio para estudiar
 Ve su progreso
 
 
