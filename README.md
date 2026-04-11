@@ -137,7 +137,7 @@ Tecnologías propuestas:
 App móvil (Android o Flutter)
 Backend con API
 Base de datos
-IA mediante API externa
+
 
 Conclusión de viabilidad:
 El proyecto es completamente viable a nivel técnico, ya que combina funcionalidades ya conocidas (CRUD, login, API) con una integración sencilla de inteligencia artificial mediante servicios externos.
@@ -205,7 +205,7 @@ Seguimiento del rendimiento
 Ordenador
 Internet
 Software gratuito
-APIs 
+
 
 
 3.8 PRESUPUESTO
@@ -288,7 +288,7 @@ Demostración de la aplicación
 Presentación de funcionalidades clave
 
 
-Explicación de la parte de inteligencia artificial
+Explicacion y ayuda por un asistente de estudio
 
 
 
