@@ -9,7 +9,7 @@ Pequeño resumen de todos los apuntes que vayas cogiendo semanalmente.
 Tus próximas tareas 
 
 El proyecto consta de un inicio de sesión privado, es decir, usuario y contraseña para cada alumno que decida descargar e iniciar esta app.
-Otra parte del proyecto también consta de una parte IA, en el que los alumnos puedan consultar no solo apuntes, si no también consultar y resumir cualquier texto adquirido a lo largo de la semana.
+Otra parte del proyecto también consta de una parte de asistente de estudio, en el que los alumnos puedan repasar y resumir sus apuntes, si no también consultar y resumir cualquier texto adquirido a lo largo de la semana.
 
 La propia app y web tendrá un calendario en el que podrás ver las tareas por fecha y añadir eventos cualquier día del año.
 En las Tareas podrás:
