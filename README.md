@@ -93,7 +93,7 @@ Crear, editar y eliminar tareas
 Marcar tareas como hechas
 Calendario con exámenes
 Guardar apuntes
-IA para resumir textos 
+Asistente para resumir textos 
 
 Estas soluciones permiten centralizar la organización académica en una única aplicación, mejorando la eficiencia y productividad del estudiante.
 
