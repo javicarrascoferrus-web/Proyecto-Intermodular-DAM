@@ -344,7 +344,6 @@ Testing y corrección de errores
 El desarrollo del proyecto requiere:
 Entorno de desarrollo instalado
 Conexión a internet
-Acceso a APIs externas
 Herramientas de control de versiones (Git)
 
 4.4 Permisos necesarios
@@ -355,7 +354,6 @@ Políticas de Google Play
 
 
 4.5 Actividades que implican riesgos
-Fallos en la integración de IA
 Problemas de seguridad en el login
 Pérdida de datos
 Errores en el desarrollo
@@ -374,7 +372,6 @@ Pruebas → dispositivos móviles
 
 4.8 Posibles imprevistos
 Retrasos en el desarrollo
-Problemas técnicos con APIs
 Falta de tiempo
 
 
@@ -403,7 +400,7 @@ Pruebas del sistema de IA (resúmenes)
 Durante el desarrollo pueden surgir desviaciones como:
 Retrasos en el desarrollo
 Errores técnicos inesperados
-Problemas con APIs externas 
+
 
 
 
@@ -430,7 +427,6 @@ Backend
 Frontend
 API
 Database
-Artificial Intelligence (AI)
 User Interface (UI) 
 
 
