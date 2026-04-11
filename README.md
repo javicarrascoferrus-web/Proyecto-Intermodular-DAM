@@ -425,7 +425,6 @@ Difusión mediante web y redes sociales
 Login
 Backend
 Frontend
-API
 Database
 User Interface (UI) 
 
